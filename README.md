@@ -1,4 +1,3 @@
-
 # **STM32 LED Control menggunakan FreeRTOS**
 
 Proyek ini adalah implementasi pengendalian LED dengan **STM32** menggunakan **FreeRTOS**, yang mencakup beberapa tugas untuk mengatur LED hijau, merah, dan kuning secara bersamaan. Proyek ini juga mendemonstrasikan penggunaan **critical section** untuk manajemen sumber daya bersama dan menangani konflik akses menggunakan LED indikator.
