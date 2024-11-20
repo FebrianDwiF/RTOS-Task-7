@@ -137,4 +137,3 @@ https://github.com/user-attachments/assets/db086f76-40c8-4113-9465-1e1432762bb0
 
 ---
 
-Proyek ini dapat dimodifikasi sesuai kebutuhan. Jangan ragu untuk memberikan kontribusi atau melaporkan masalah melalui **Issues** di GitHub. 😊
